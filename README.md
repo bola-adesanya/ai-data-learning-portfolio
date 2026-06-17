@@ -13,16 +13,8 @@ This portfolio documents applied learning projects across data science, machine 
 
 ## Great Learning Project Collection
 
-| Project | Business Problem | Methods | Repo / Artifact |
-|---|---|---|---|
-| Project 1 | Replace with exact problem | Python / ML / BI | Link |
-| Project 2 | Replace with exact problem | Python / ML / BI | Link |
-| Project 3 | Replace with exact problem | Python / ML / BI | Link |
-| Project 4 | Replace with exact problem | Python / ML / BI | Link |
+[Full Stack Software Development: Building Scalable Cloud Applications](https://www.mygreatlearning.com/eportfolio/bolanle-adesanya4)
+[Generative AI for Business with MSFT Azure OpenAI Program](https://www.mygreatlearning.com/eportfolio/bolanle-adesanya3)
+[Data Science on Cloud](https://www.mygreatlearning.com/eportfolio/bolanle-adesanya2)
+[Post Graduate Program in Data Science and Business Analytics](https://www.mygreatlearning.com/eportfolio/bolanle-adesanya)
 
-## What This Shows
-
-- Ability to translate business problems into analytics and AI solutions
-- Hands-on execution across data preparation, modeling, evaluation, and communication
-- Growth path toward Manager, Data, Advanced Analytics and AI
-- Foundation for future CDAIO-level leadership
