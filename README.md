@@ -13,8 +13,8 @@ This portfolio documents applied learning projects across data science, machine 
 
 ## Great Learning Project Collection
 
-[Full Stack Software Development: Building Scalable Cloud Applications](https://www.mygreatlearning.com/eportfolio/bolanle-adesanya4)
-[Generative AI for Business with MSFT Azure OpenAI Program](https://www.mygreatlearning.com/eportfolio/bolanle-adesanya3)
-[Data Science on Cloud](https://www.mygreatlearning.com/eportfolio/bolanle-adesanya2)
-[Post Graduate Program in Data Science and Business Analytics](https://www.mygreatlearning.com/eportfolio/bolanle-adesanya)
+- [Full Stack Software Development: Building Scalable Cloud Applications](https://www.mygreatlearning.com/eportfolio/bolanle-adesanya4)
+- [Generative AI for Business with MSFT Azure OpenAI Program](https://www.mygreatlearning.com/eportfolio/bolanle-adesanya3)
+- [Data Science on Cloud](https://www.mygreatlearning.com/eportfolio/bolanle-adesanya2)
+- [Post Graduate Program in Data Science and Business Analytics](https://www.mygreatlearning.com/eportfolio/bolanle-adesanya)
 
